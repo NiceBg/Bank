@@ -1,0 +1,6 @@
+name: NiceBg
+description: "A Bank Plugin"
+api: 4.9.1
+version: 1.0.0
+author: NiceBg
+main: NiceBg\Bank\Main
