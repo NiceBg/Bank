@@ -16,7 +16,7 @@ use pocketmine\utils\Config;
 use pocketmine\scheduler\ClosureTask;
 
 
-class BankUI extends PluginBase implements Listener{
+class Main extends PluginBase implements Listener{
 
     private static $instance;
     public $playersMoney = [];
